@@ -41,3 +41,18 @@ Here is a list of available websites for online information gathering:
 - **[Spokeo](www.spokeo.com)**: People search engine that searches by name, phone number, email, and more.
 - **[411](https://www.411.com/)**: Directory for finding people and businesses, primarily focused on the United States.
 - **[BeenVerified](https://www.beenverified.com/)**: People search engine for finding information about individuals, primarily focused on the United States.
+
+## Attacks
+- **[Checkpoint Threat Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)**: Shows real-time cyber threats and attacks worldwide.
+- **[Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/)**: Displays cyber threats and attacks in real-time, provided by Kaspersky.
+- **[The Journal Geovideo](http://c3.thejournal.ie/media/2013/05/geovideo.gif)**: An animated map showing global cyber attacks, similar to Kaspersky and Check Point maps.
+- **[Bitdefender Threat Map](https://threatmap.bitdefender.com/)**: Shows live cyber attack data and threats, provided by Bitdefender.
+
+## Company
+- **[OpenCorporates](opencorporates.com)**: Provides information about company branches, subsidiaries, and historical data.
+- **[Organized Crime and Corruption Reporting Project (OCCRP) Data](data.occrp.org)**: Search for company names to find any leaks related to crime and corruption.
+- **[Glassdoor](www.glassdoor.com)**: Offers insights into the work environment, salaries, and reviews of companies.
+
+## Others
+- **[Flightradar24](https://www.flightradar24.com/23.64,48.1/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
+- **[Global Incident Map](www.globalincidentmap.com/)**: Displays locations of incidents, accidents, and explosions around the world.
