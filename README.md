@@ -11,6 +11,7 @@ Open Source Intelligence (OSINT) plays a critical role in gathering information 
 - [Introduction](#introduction)
 - [Accessing OSINT Resources](#accessing-osint-resources)
 - [Guides](#guides)
+- [Useful Projects](#Projects and Case Studies)
 - [Best Practices](#best-practices)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,6 +31,15 @@ Explore guides and tutorials that provide tips and techniques for effectively us
 - Stay updated on changes to online platforms' terms of service and data access policies.
 - Consider ethical implications and privacy concerns when gathering and sharing information.
 - Learn to recognize misinformation and disinformation tactics to avoid being misled.
+
+## Projects and Case Studies
+
+Discover collaborative OSINT projects and real-world case studies showcasing the application of OSINT techniques in various contexts, including:
+
+- Investigative journalism projects
+- Law enforcement and intelligence operations
+- Security research and threat intelligence analysis
+- Academic studies and research papers
 
 ## Best Practices
 
