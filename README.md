@@ -11,7 +11,7 @@ Open Source Intelligence (OSINT) plays a critical role in gathering information 
 - [Introduction](#introduction)
 - [Accessing OSINT Resources](#accessing-osint-resources)
 - [Guides](#guides)
-- [Useful Projects](#Projects and Case Studies)
+- [Useful Projects](#Projects-and-Case-Studies)
 - [Best Practices](#best-practices)
 - [Contributing](#contributing)
 - [License](#license)
