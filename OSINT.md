@@ -2,6 +2,7 @@
 
 Here is a list of available websites for online information gathering:
 
+## Websites
 - **[Network Tools](https://network-tools.webwiz.net/)**: Provides various options for network diagnostics, such as IP, DNS, and MX lookup.
 - **[Wayback Machine](https://web.archive.org/)**: Allows you to view archived copies of websites from the past to present.
 - **[Whois Domain Tools](https://whois.domaintools.com/)**: Provides details about any website, including domain ownership and registration information.
@@ -14,6 +15,7 @@ Here is a list of available websites for online information gathering:
 - **[SpyOnWeb](http://spyonweb.com/)**: Provides information about a website's IP addresses, server details, and related domains.
 - **[Whoxy](www.whoxy.com)**: Offers domain lookup services, including email address search and related domain listing.
 
+## Images
 - **[TinEye](www.tineye.com)**: Image search engine.
 - **[PimEyes](https://pimeyes.com)**: Facial recognition search engine.
 - **[WebMii](http://webmii.com/)**: People search engine.
