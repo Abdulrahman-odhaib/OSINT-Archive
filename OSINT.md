@@ -40,4 +40,4 @@ Here is a list of available websites for online information gathering:
 - **[Whitepages](https://www.whitepages.com)**: Search engine for finding people's contact information, background checks, and more.
 - **[Spokeo](www.spokeo.com)**: People search engine that searches by name, phone number, email, and more.
 - **[411](https://www.411.com/)**: Directory for finding people and businesses, primarily focused on the United States.
-- **[BeenVerified](www.beenverified.com)**: People search engine for finding information about individuals, primarily focused on the United States.
+- **[BeenVerified](https://www.beenverified.com/)**: People search engine for finding information about individuals, primarily focused on the United States.
