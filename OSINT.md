@@ -63,6 +63,19 @@ Here is a list of available websites for online information gathering:
 - **[New IP Now](newipnow.com/)**: Provides a temporary IP address for accessing websites anonymously.
 - **[DNS Leak Test](https://www.dnsleaktest.com/)**: Tests for VPN IP leaks.
 
+## Emails 
+- [Hunter](https://hunter.io): Email finder and verification tool.
+- [Voila Norbert](https://www.voilanorbert.com/): Email search and verification platform.
+- [ContactOut](https://contactout.com/): Chrome extension for finding email addresses and contact information from LinkedIn profiles.
+- [RevenueBase](https://www.revenuebase.com/): Sales intelligence platform for generating leads and prospecting.
+- [Apollo](https://www.apollo.io/): Sales engagement platform with email finding capabilities.
+- [Vocus.io](https://www.vocus.io/): Email tracking and productivity tool for Gmail.
+- [Anymail Finder](https://anymailfinder.com/): Email finder tool for locating email addresses.
+- [Slintel](https://www.slintel.com/): Sales intelligence platform for lead generation and prospecting.
+- [FindEmails](https://www.findemails.com/): Email lookup tool for finding email addresses.
+- [Wiza](https://wiza.co/): Chrome extension for scraping email addresses from LinkedIn profiles.
+- [Discoverly](https://discover.ly/): Chrome extension for discovering email addresses and social profiles.
+
 ## Cameras
 - **[OpenStreetCam](https://openstreetcam.org/map/@29.821582720575016,39.8583984375,5z)**: Shows the locations and distribution of cameras, particularly in streets.
 - **[Airport Webcams](https://airportwebcams.net/)**: Provides webcams for some airports.
