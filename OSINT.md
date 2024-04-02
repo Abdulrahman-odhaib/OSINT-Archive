@@ -1,7 +1,3 @@
-# OSINT Website Collection
-
-Welcome to the OSINT Website Collection! This repository aims to gather a comprehensive list of websites and online resources useful for Open Source Intelligence (OSINT) gathering and investigation purposes.
-
 ## Description
 
 Here is a list of available websites for online information gathering:
@@ -18,10 +14,7 @@ Here is a list of available websites for online information gathering:
 - **[SpyOnWeb](http://spyonweb.com/)**: Provides information about a website's IP addresses, server details, and related domains.
 - **[Whoxy](www.whoxy.com)**: Offers domain lookup services, including email address search and related domain listing.
 
-## Contributing
-
-Contributions are welcome! If you know of any valuable websites or online resources related to OSINT, please feel free to submit a pull request to add them to the list.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- **[TinEye](www.tineye.com)**: Image search engine.
+- **[PimEyes](https://pimeyes.com)**: Facial recognition search engine.
+- **[WebMii](http://webmii.com/)**: People search engine.
+- **[ExifTool by Phil Harvey](http://exif.regex.info/exif.cgi)**: Tool for extracting metadata from images (Exif data).
