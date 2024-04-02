@@ -53,6 +53,22 @@ Here is a list of available websites for online information gathering:
 - **[Organized Crime and Corruption Reporting Project (OCCRP) Data](data.occrp.org)**: Search for company names to find any leaks related to crime and corruption.
 - **[Glassdoor](www.glassdoor.com)**: Offers insights into the work environment, salaries, and reviews of companies.
 
+## IP 
+- **[Geobytes IP Locator](http://www.geobytes.com/IpLocator)**: Provides information about the owner of an IP address.
+- **[HypeStat](https://hypestat.com)**: Offers detailed statistics and analytics for websites.
+- **[Keyword Suggest Tool](https://www.keyword-suggest-tool.com/search/fb-urls1.com.wenotify.net/)**: Provides country information and other data from an IP.
+- **[Show My IP](www.showmyip.gr)**: Displays country and IP information.
+- **[ARIN Whois](https://search.arin.net)**: Provides IP information, but registration is required.
+- **[Cell Phone Trackers](https://cellphonetrackers.org/gsm/gsm-tracker.php)**: Determines location based on SIM card details.
+- **[New IP Now](newipnow.com/)**: Provides a temporary IP address for accessing websites anonymously.
+- **[DNS Leak Test](https://www.dnsleaktest.com/)**: Tests for VPN IP leaks.
+
+## Cameras
+- **[OpenStreetCam](https://openstreetcam.org/map/@29.821582720575016,39.8583984375,5z)**: Shows the locations and distribution of cameras, particularly in streets.
+- **[Airport Webcams](https://airportwebcams.net/)**: Provides webcams for some airports.
+- **[Insecam](https://www.insecam.org/en/)**: Displays some open webcams.
+- **[Pictimo](https://www.pictimo.com/map)**: Allows you to select points on the map to view cameras.
+
 ## Others
 - **[Flightradar24](https://www.flightradar24.com/23.64,48.1/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
 - **[Global Incident Map](www.globalincidentmap.com/)**: Displays locations of incidents, accidents, and explosions around the world.
