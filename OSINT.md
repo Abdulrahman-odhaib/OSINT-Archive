@@ -109,7 +109,6 @@ Here is a list of available websites for online information gathering:
 - **[Global Incident Map](www.globalincidentmap.com/)**: Displays locations of incidents, accidents, and explosions around the world.
 - **[Social Searcher](https://www.social-searcher.com/social-mention/)**: Provides insights into people's opinions and mentions about specific products or topics.
 - **[FortyPoundHead](www.fortypoundhead.com)**: Offers answers to questions related to information security.
-- **[Verification Handbook](https://verificationhandbook.com/book_ar/chapter10.php)**: Provides useful resources for investigative journalism, including banned Google search results.
 - **[Gibiru](https://gibiru.com/)**: Shows some results that are banned on Google.
 - **[Parseek](https://www.parseek.com/)**: Displays the most viewed content.
 - **[Lycos](http://www.lycos.com/)**: A web directory that aggregates various websites.
