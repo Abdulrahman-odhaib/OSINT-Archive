@@ -1,6 +1,6 @@
 ## Description
 
-Here is a list of available websites for online information gathering:
+Below is a compilation of accessible websites for conducting online information gathering.
 
 ## Note
 This curated list has been compiled from over 20 different sources to provide a comprehensive coverage of various aspects in OSINT (Open Source Intelligence) operations.
