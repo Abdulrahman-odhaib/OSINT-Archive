@@ -34,7 +34,7 @@ This curated list has been compiled from over 20 different sources to provide a 
 - **[Wayback Machine](https://web.archive.org/)**: Digital archive of the World Wide Web, allowing access to historical versions of websites.
 - **[Shodan](shodan.io)**: Search engine for finding internet-connected devices, including IoT devices, servers, and more.
 
-## People - username
+## People
 - **[Webstagram](https://webstagram.org/)**: Search for individuals on Instagram.
 - **[Pipl](https://pipl.com/)**: Search engine for finding people's profiles and information online.
 - **[PeekYou](www.peekyou.com/)**: People search engine that searches across multiple sources.
