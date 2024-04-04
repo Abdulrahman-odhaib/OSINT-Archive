@@ -103,6 +103,13 @@ Here is a list of available websites for online information gathering:
 - **[Airport Webcams](https://airportwebcams.net/)**: Provides webcams for some airports.
 - **[Insecam](https://www.insecam.org/en/)**: Displays some open webcams.
 - **[Pictimo](https://www.pictimo.com/map)**: Allows you to select points on the map to view cameras.
+- **[Worldcam](www.worldcam.pl/)**: Displays webcams from various locations around the world.
+
+## Weather 
+- **[Meteo France](http://www.meteofrance.com)**: Provides weather forecasts and information for France.
+- **[Wolfram Alpha](www.wolframalpha.com)**: Offers computational knowledge engine for a wide range of topics.
+- **[AccuWeather](https://www.accuweather.com/)**: Provides weather forecasts, news, and information worldwide.
+- **[Windy](https://www.windy.com/?21.517,39.219,5)**: Offers interactive weather forecasting and visualization for various locations.
 
 ## Others
 - **[Flightradar24](https://www.flightradar24.com/23.64,48.10/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
@@ -115,9 +122,9 @@ Here is a list of available websites for online information gathering:
 - **[Excite](http://www.excite.com/)**: Another web directory that gathers multiple websites.
 - **[Polte](http://www.polte.org/)**: A search engine and VPN provider combined.
 - **[Searx](https://searx.me/)**: Allows you to easily change the search country and more.
-- **[Wolfram Alpha](https://www.wolframalpha.com/)**: Provides weather data and more.
 - **[iSeek Education](http://education.iseek.com/iseek/home.page)**: A secure search engine for educational purposes.
-
+- **[SearchFTPS](www.searchftps.net)**: Allows searching for FTP servers.
+- **[WiGLE](https://wigle.net/)**: Provides information on wireless networks worldwide.
 
 ## Google Dork
 - **intext**: Finds pages containing specific words or phrases within the website content.
@@ -134,4 +141,7 @@ Here is a list of available websites for online information gathering:
 - **not**: Excludes pages containing a specific word or phrase.
 - **define**: Defines specific terms or phrases.
 - **filetype**: Searches for specific file types.
+
+## Learn
+- **[OSINT Techniques](https://www.osinttechniques.com/)**: Provides various resources, tools, and guides for conducting Open Source Intelligence (OSINT) investigations.
 
