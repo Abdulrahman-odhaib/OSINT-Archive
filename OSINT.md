@@ -2,6 +2,9 @@
 
 Here is a list of available websites for online information gathering:
 
+## Note
+This curated list has been compiled from over 20 different sources to provide a comprehensive coverage of various aspects in OSINT (Open Source Intelligence) operations.
+
 ## Websites
 - **[Network Tools](https://network-tools.webwiz.net/)**: Provides various options for network diagnostics, such as IP, DNS, and MX lookup.
 - **[Wayback Machine](https://web.archive.org/)**: Allows you to view archived copies of websites from the past to present.
