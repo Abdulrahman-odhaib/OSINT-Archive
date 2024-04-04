@@ -31,16 +31,26 @@ Here is a list of available websites for online information gathering:
 - **[Wayback Machine](https://web.archive.org/)**: Digital archive of the World Wide Web, allowing access to historical versions of websites.
 - **[Shodan](shodan.io)**: Search engine for finding internet-connected devices, including IoT devices, servers, and more.
 
-## People 
+## People - username
 - **[Webstagram](https://webstagram.org/)**: Search for individuals on Instagram.
 - **[Pipl](https://pipl.com/)**: Search engine for finding people's profiles and information online.
 - **[PeekYou](www.peekyou.com/)**: People search engine that searches across multiple sources.
-- **[Usersearch](https://usersearch.org)**: Search by username to find associated accounts on various platforms.
-- **[Namechk](https://namechk.com/)**: Check if a username is taken on various websites and social media platforms.
 - **[Whitepages](https://www.whitepages.com)**: Search engine for finding people's contact information, background checks, and more.
 - **[Spokeo](www.spokeo.com)**: People search engine that searches by name, phone number, email, and more.
 - **[411](https://www.411.com/)**: Directory for finding people and businesses, primarily focused on the United States.
 - **[BeenVerified](https://www.beenverified.com/)**: People search engine for finding information about individuals, primarily focused on the United States.
+
+## Username
+- **[Usersearch](https://usersearch.org)**: Search by username to find associated accounts on various platforms.
+- **[Namechk](https://namechk.com/)**: Check if a username is taken on various websites and social media platforms.
+
+## Social Media
+- **[Webstagram](https://webstagram.org/)**: Search for individuals on Instagram.
+- **[Fblikecheck](http://www.fblikecheck.com/)**: Provides information about Facebook likes for a given URL.
+- **[TweetDeck](http://decktweetdeck.twitter.com/)**: A social media dashboard application for managing Twitter accounts.
+- **[Burrrd](https://burrrd.com/)**: Aggregates and displays Twitter timelines in a single webpage.
+- **[Foller.me](https://foller.me/)**: Provides insights and analytics for Twitter accounts.
+- **[Burrrd](https://burrrd.com/)**: Aggregates and displays Twitter timelines in a single webpage.
 
 ## Attacks
 - **[Checkpoint Threat Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)**: Shows real-time cyber threats and attacks worldwide.
@@ -76,6 +86,18 @@ Here is a list of available websites for online information gathering:
 - [Wiza](https://wiza.co/): Chrome extension for scraping email addresses from LinkedIn profiles.
 - [Discoverly](https://discover.ly/): Chrome extension for discovering email addresses and social profiles.
 
+## Search engines
+- **[Dothop](http://dothop.com/)**: Presents search results in a slide-like format.
+- **[AOL Search](https://search.aol.com/)**: A search engine that helps you save time by streamlining searches.
+- **[Advangle](http://advangle.com/)**: Allows you to search like a DORK and customizes results for you, opening pages with the desired content.
+- **[DuckDuckGo](https://duckduckgo.com/)**: Well-known search engine that also offers advanced search options like DORK.
+- **[Gigablast](https://www.gigablast.com/)**: Highlights the searched item and offers advanced search options like DORK.
+- **[Info.com](http://www.info.com/)**: Offers a very natural search experience.
+- **[Impersonal.me](http://www.impersonal.me/)**: Potentially keeps you anonymous while searching.
+- **[Mojeek](https://www.mojeek.com/)**: Provides good search results.
+- **[MyWebSearch](http://home.mywebsearch.com/)**: A search engine with ready-to-click icons for websites like YouTube and Gmail.
+- **[Startpage](https://www.startpage.com/)**: A known search engine.
+
 ## Cameras
 - **[OpenStreetCam](https://openstreetcam.org/map/@29.821582720575016,39.8583984375,5z)**: Shows the locations and distribution of cameras, particularly in streets.
 - **[Airport Webcams](https://airportwebcams.net/)**: Provides webcams for some airports.
@@ -83,5 +105,34 @@ Here is a list of available websites for online information gathering:
 - **[Pictimo](https://www.pictimo.com/map)**: Allows you to select points on the map to view cameras.
 
 ## Others
-- **[Flightradar24](https://www.flightradar24.com/23.64,48.1/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
+- **[Flightradar24](https://www.flightradar24.com/23.64,48.10/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
 - **[Global Incident Map](www.globalincidentmap.com/)**: Displays locations of incidents, accidents, and explosions around the world.
+- **[Social Searcher](https://www.social-searcher.com/social-mention/)**: Provides insights into people's opinions and mentions about specific products or topics.
+- **[FortyPoundHead](www.fortypoundhead.com)**: Offers answers to questions related to information security.
+- **[Verification Handbook](https://verificationhandbook.com/book_ar/chapter10.php)**: Provides useful resources for investigative journalism, including banned Google search results.
+- **[Gibiru](https://gibiru.com/)**: Shows some results that are banned on Google.
+- **[Parseek](https://www.parseek.com/)**: Displays the most viewed content.
+- **[Lycos](http://www.lycos.com/)**: A web directory that aggregates various websites.
+- **[Excite](http://www.excite.com/)**: Another web directory that gathers multiple websites.
+- **[Polte](http://www.polte.org/)**: A search engine and VPN provider combined.
+- **[Searx](https://searx.me/)**: Allows you to easily change the search country and more.
+- **[Wolfram Alpha](https://www.wolframalpha.com/)**: Provides weather data and more.
+- **[iSeek Education](http://education.iseek.com/iseek/home.page)**: A secure search engine for educational purposes.
+
+
+## Google Dork
+- **intext**: Finds pages containing specific words or phrases within the website content.
+- **cache**: Retrieves cached versions of the website.
+- **link**: Displays a list of web pages that are linked to the specified website.
+- **related**: Shows similar pages to the specified website.
+- **info**: Provides information about the specified page.
+- **site**: Restricts search results to the specified website.
+- **intitle**: Finds pages with titles containing the specified word or phrase.
+- **inurl**: Finds pages with URLs containing the specified word or phrase.
+- **allinurl**: Finds pages with URLs containing all of the specified words.
+- **or**: Specifies multiple search terms where any of them can be present in the search results.
+- **and**: Specifies multiple search terms where all of them must be present in the search results.
+- **not**: Excludes pages containing a specific word or phrase.
+- **define**: Defines specific terms or phrases.
+- **filetype**: Searches for specific file types.
+
