@@ -120,15 +120,14 @@ This curated list has been compiled from over 20 different sources to provide a 
 ### Web History
 
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
-- [Archive.ph](https://archive.ph/) - Create a copy of a webpage that will always be up even if the original link is down
-- [CachedPages](http://www.cachedpages.com/) - Get the cached page of any URL
-- [stored.website](https://stored.website/) - View cached web pages/website
 - [CommonCrawl](https://commoncrawl.org/) - Open repository of web crawl data
 - [UK Web Archive](https://www.webarchive.org.uk/ukwa/) - Collects millions of websites each year, preserving them for future generations
+- [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 - [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
-- [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
-
+- [CachedPages](http://www.cachedpages.com/) - Get the cached page of any URL
+- [Archive.ph](https://archive.ph/) - Create a copy of a webpage that will always be up even if the original link is down
+- [stored.website](https://stored.website/) - View cached web pages/website
   
 ## Others
 - **[Flightradar24](https://www.flightradar24.com/23.64,48.10/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
