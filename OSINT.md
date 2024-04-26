@@ -117,6 +117,19 @@ This curated list has been compiled from over 20 different sources to provide a 
 - **[AccuWeather](https://www.accuweather.com/)**: Provides weather forecasts, news, and information worldwide.
 - **[Windy](https://www.windy.com/?21.517,39.219,5)**: Offers interactive weather forecasting and visualization for various locations.
 
+### Web History
+
+- [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
+- [Archive.ph](https://archive.ph/) - Create a copy of a webpage that will always be up even if the original link is down
+- [CachedPages](http://www.cachedpages.com/) - Get the cached page of any URL
+- [stored.website](https://stored.website/) - View cached web pages/website
+- [CommonCrawl](https://commoncrawl.org/) - Open repository of web crawl data
+- [UK Web Archive](https://www.webarchive.org.uk/ukwa/) - Collects millions of websites each year, preserving them for future generations
+- [Arquivo](https://arquivo.pt/) - Non-profit service that maintains information published on the web of interest to the Portuguese community
+- [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
+- [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
+
+  
 ## Others
 - **[Flightradar24](https://www.flightradar24.com/23.64,48.10/5)**: Provides real-time flight tracking, showing the routes and destinations of aircraft.
 - **[Global Incident Map](www.globalincidentmap.com/)**: Displays locations of incidents, accidents, and explosions around the world.
