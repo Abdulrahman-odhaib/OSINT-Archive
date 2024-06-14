@@ -2,6 +2,8 @@
 
 Below is a compilation of accessible websites for conducting online information gathering.
 
+## some other Resources
+https://awesome-hacker-search-engines.com/
 ## Note
 This curated list has been compiled from over 20 different sources to provide a comprehensive coverage of various aspects in OSINT (Open Source Intelligence) operations.
 
